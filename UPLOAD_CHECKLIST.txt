@@ -1,7 +1,0 @@
-GITHUB UPLOAD CHECKLIST
-
-1. Create a public repository named: department-guide-robot
-2. Upload everything inside this folder.
-3. Confirm README.md appears on the repository home page.
-4. Do NOT upload passwords, API keys, confidential DRDO/company material, private datasets, or restricted model files.
-5. If GitHub rejects a large file, leave it out rather than forcing it into the repository.
