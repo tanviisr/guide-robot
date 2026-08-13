@@ -3,7 +3,6 @@ opencv-python
 tensorflow
 SpeechRecognition
 pyttsx3
-pygame
 Pillow
 
 # Raspberry Pi-specific packages may need to be installed separately
