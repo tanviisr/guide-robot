@@ -1,0 +1,12 @@
+numpy
+opencv-python
+tensorflow
+SpeechRecognition
+pyttsx3
+pygame
+Pillow
+
+# Raspberry Pi-specific packages may need to be installed separately
+# depending on the Raspberry Pi OS and hardware:
+# RPi.GPIO
+# picamera2
