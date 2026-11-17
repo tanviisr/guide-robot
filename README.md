@@ -6,13 +6,10 @@ An AI-powered indoor guidance robot built with Python, Raspberry Pi, computer vi
 
 The Department Guide Robot is designed to provide an interactive guideance experience through a combination of artificial intelligence, computer vision, voice interaction and robotic movement.
 
-The system uses a camera to capture images, a trained deep-learning model too recognize different robots, and text-to-speech functionality to introduce the recognized robots.
+The system uses a camera to capture images, a deep-learning model to recognize different robots, and text-to-speech functionality to introduce the recognized robots.
 
-The project id developed using a modular approach, with seperate components for image recognition, voice interaction and motor.
+The project is developed using a modular approach, with seperate components for image recognition, voice interaction and motor control, which were later integrated into final working prototype.
 
-//The Department Guide Robot is designed to interact with users through voice commands, recognize visual information, and control its movement using a Raspberry Pi-based robotic platform.
-
-The project was developed as a modular system and then integrated into a final working prototype.//
 
 ## Key Features
 
