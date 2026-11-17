@@ -4,9 +4,15 @@ An AI-powered indoor guidance robot built with Python, Raspberry Pi, computer vi
 
 ## Project Overview
 
-The Department Guide Robot is designed to interact with users through voice commands, recognize visual information, and control its movement using a Raspberry Pi-based robotic platform.
+The Department Guide Robot is designed to provide an interactive guideance experience through a combination of artificial intelligence, computer vision, voice interaction and robotic movement.
 
-The project was developed as a modular system and then integrated into a final working prototype.
+The system uses a camera to capture images, a trained deep-learning model too recognize different robots, and text-to-speech functionality to introduce the recognized robots.
+
+The project id developed using a modular approach, with seperate components for image recognition, voice interaction and motor.
+
+//The Department Guide Robot is designed to interact with users through voice commands, recognize visual information, and control its movement using a Raspberry Pi-based robotic platform.
+
+The project was developed as a modular system and then integrated into a final working prototype.//
 
 ## Key Features
 
@@ -18,11 +24,12 @@ The project was developed as a modular system and then integrated into a final w
 - Ultrasonic-sensor-based obstacle detection
 - Modular integration of vision, speech, and movement
 
+
 ## Technologies
 
 **Programming:** Python
 
-**AI / Computer Vision:** TensorFlow, OpenCV, MobileNetV2
+**AI / Computer Vision:** TensorFlow,keras, OpenCV, MobileNetV2
 
 **Voice:** SpeechRecognition, pyttsx3
 
@@ -33,17 +40,20 @@ The project was developed as a modular system and then integrated into a final w
 ## Repository Structure
 
 ```text
-department-guide-robot/
+guide-robot/
+|
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
+|
 ├── notebooks/
 │   ├── motor_driver.ipynb
+|   
 │   ├── camera_and_image_recognition.ipynb
 │   ├── voice_interaction.ipynb
-│   └── department_guide_robot.ipynb
+ department_guide_robot.ipynb
 ├── models/
-│   └── README.md
+│   
 └── assets/
 ```
 
