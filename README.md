@@ -98,6 +98,15 @@ This project was developed for a Raspberry Pi hardware environment.
 
 > Hardware-specific GPIO and camera functionality will not run correctly on a normal laptop without the required Raspberry Pi hardware.
 
+## Projects Gallery
+
+![Other robot detection](assets/robot_detecting.jpg)
+![Robot development](assets/development.jpg)
+![Hardware setup](assests/hardware_setup.jpg)
+![Robot](assets/robot_back.jpg)
+![Robot](assets/robot_front)
+
+
 ## Model Files
 
 Large trained model files are intentionally not included in this repository. See `models/README.md` for guidance.
