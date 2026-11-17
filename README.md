@@ -100,11 +100,13 @@ This project was developed for a Raspberry Pi hardware environment.
 
 ## Projects Gallery
 
-![Other robot detection](assets/robot_detecting.jpg)
+![Robot](assets/robot_front)
+![Robot](assets/robot_back.jpg)
 ![Robot development](assets/development.jpg)
 ![Hardware setup](assests/hardware_setup.jpg)
-![Robot](assets/robot_back.jpg)
-![Robot](assets/robot_front)
+![Other robot detection](assets/detecting.jpg)
+
+
 
 
 ## Model Files
